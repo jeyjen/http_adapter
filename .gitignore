@@ -1,0 +1,6 @@
+packages
+nupkg
+bin
+obj
+/.vs
+App.config
